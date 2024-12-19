@@ -1,0 +1,33 @@
+#google-map {
+    height: 400px;
+    margin: 20px auto;
+    max-width: 90%;
+}
+#tabel-GMaps {
+    height: auto;
+    margin: 20px auto;
+    max-width: 90%;
+}
+.judul-peta,
+.judul-tabel {
+    text-align: center;
+    padding: 10px;
+}
+.judul-tabel {
+    text-align: center;
+    padding: 10px;
+}
+.form-container {
+    margin: 20px;
+}
+#markerForm,
+#polygonForm {
+    margin-bottom: 20px;
+}
+input,
+textarea {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    margin-top: 17px;
+}

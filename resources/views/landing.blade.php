@@ -103,6 +103,8 @@
     <ul>
         <li><a href="{{ url('/map') }}" class="button">Latihan</a></li>
         <li><a href="{{ url('/tugas1') }}" class="button">Tugas-HandsOn-1</a></li>
+        <li><a href="{{ url('/latihan2') }}" class="button">latihan-HandsOn-2</a></li>
+        <li><a href="{{ url('/tugas2') }}" class="button">Tugas-HandsOn-2</a></li>
     </ul>
 </body>
 </html>
